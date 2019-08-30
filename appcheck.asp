@@ -5,7 +5,7 @@
    nowprogram_ls = "appcheck"
    Program_name = "提供app程式呼叫"
    
-   '2013-09-27 因為上線的app無法取得限制自訓查訓的鴿會故不呈現自訓查詢的鴿會
+   '2013-09-27 因為上線的app無法取得限制自訓查訓的鴿會故不呈現自訓查詢的鴿會1
    show_trainOpenFg = "N"
    'opkind = A001  開啟程式檢查，
    '               回傳
