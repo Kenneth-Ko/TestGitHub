@@ -7,7 +7,7 @@
   Program_name = "地圖"  
 %> 
 <%
-//2013-03-26  增加多語系112233
+//2013-03-26  增加多語系11
 
 Pigeon_site_no = trim(Request("Pigeon_site_no"))
 ringno = trim(Request("ringno"))
